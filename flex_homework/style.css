@@ -23,6 +23,8 @@ h1 {
 .content {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 5px;
 }
 
 article {
